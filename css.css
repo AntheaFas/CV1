@@ -1,0 +1,37 @@
+body {
+    background: black;
+    color: rgb(3, 183, 246);
+}
+
+h1 {
+    color: rgb(3, 183, 246);
+}
+
+h1 {
+    color: #d000ff;
+}
+
+p {
+    text-align: center;
+}
+
+
+@font-face {
+    font-family: 'MaPolice';
+    src: url('index.html') format('woff2'),
+    url('index.html') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2 {
+    font-family: 'MaPolice', sans-serif;
+}
+
+div {
+    border: 1px solid #ffffff;
+}
+
+img {
+    box-shadow: 2px 2px 5px #e03232;
+}
